@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276855573393",
+    "firebase_url": "https://senders-6e370.firebaseio.com",
+    "project_id": "senders-6e370",
+    "storage_bucket": "senders-6e370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276855573393:android:18bf88e6cc8005bbc06830",
+        "android_client_info": {
+          "package_name": "com.example.senderschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276855573393-1gpal4ls4itcl8db6e494167lv2vsqlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senderschatapp",
+            "certificate_hash": "4b304d74d3ecadf70a0721eb1e943106fa7451b0"
+          }
+        },
+        {
+          "client_id": "276855573393-br1mi2a27oak69qo6nf8rueqkcegmftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDm-IlSgZAPEAs7djUott0ritzpNS_Qo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276855573393-br1mi2a27oak69qo6nf8rueqkcegmftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
